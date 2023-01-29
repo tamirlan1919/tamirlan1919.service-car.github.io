@@ -1,0 +1,64 @@
+.lang{
+    margin-top: 41px;
+    display: flex;
+   
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+
+text-transform: uppercase;
+}
+.lang .ru{
+    margin-right: 8px;
+
+color: #B7B7B7;
+
+}
+.lang .en{
+    color: #FFFFFF;
+}
+
+
+.links ul{
+    margin-top: 41px;
+}
+
+
+
+.links ul{
+    display: flex;
+}
+.links ul li{
+    list-style-type: none;
+    margin-right: 35px;
+}
+.links ul li a{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+
+text-transform: uppercase;
+text-decoration: none;
+color: #FFFFFF;
+
+}
+.main-a{
+    padding-bottom: 5px;
+    border-bottom: 1px solid white;
+}
+
+.home{
+    background: url('../img/road-g9875459d1_1920\ 1\ \(1\).jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+}
+.img img{
+    margin-top: 22px;
+}

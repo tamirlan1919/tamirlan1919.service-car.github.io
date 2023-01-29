@@ -1,0 +1,326 @@
+.lank .ru{
+    margin-right: 10px;
+}
+
+.links ul{
+    display: flex;
+    margin-top: 50px;
+   
+}
+.links ul li{
+    list-style-type: none;
+    margin-right: 35px;
+    color: white
+}
+.links ul li a{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+.home{
+    background: url('img/road-g9875459d1_1920\ 1\ \(1\).jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.pp1{
+    color: white;
+    margin-top: 217px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 150%;
+    /* or 72px */
+    
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+
+}
+.batona button{
+    color: white;
+    background-color: red;
+    border-radius: 0%;
+    border: none;
+    margin-top: 64px;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+
+color: #FFFFFF;
+padding: 20px;
+border-radius: 10px;
+border: none;
+}
+.col-4 img{
+    margin-top: 50px;
+
+}
+.img img{
+    margin-top: 22px;
+}
+.lank{
+    color: white;
+    display: flex;
+    margin-top: 45px;
+}
+.lank .EN{
+    margin-left: 5px;
+
+}
+.pvob{
+    display: flex;
+    background-color: white;
+}
+.pvob p{
+
+}
+.pvob img{
+    padding-top: 10px;
+}
+.col-3 OUR nn{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 150%;
+    /* identical to box height, or 30px */
+    
+    letter-spacing: 0.23em;
+    text-transform: uppercase;
+    
+    color: #000000;
+}.OUR SERVICES h1{
+/* OUR SERVICES */
+
+
+position: absolute;
+width: 263px;
+height: 45px;
+left: 240px;
+top: 947px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 150%;
+/* identical to box height, or 45px */
+
+letter-spacing: 0.15em;
+text-transform: uppercase;
+
+color: #000000;
+}
+.ab{
+    display: flex;
+}
+.service .first .main{
+    width: 386px;
+    height: 500px;
+    background: url('img/iStock-1125646126\ 1\ \(1\).png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.service .second .main{
+    width: 386px;
+    height: 500px;
+    background: url('img/iStock-1227609937\ 1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.service .third .main{
+    width: 386px;
+    height: 500px;
+    background: url('img/iStock-544604266-1\ 1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.service{
+    margin-top: 123px;
+}
+.service .col{
+    margin-top: 123px;
+}
+.service  .wrapper p{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+letter-spacing: 0.23em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+.service .col button{
+    background: #db2512;
+    border: none;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    font-size: 35px;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+    z-index: 99;
+}
+.service .main .wrapper button{
+    margin-top: 200px;
+    margin-left: 143px;
+}.service .main .wrapper p{
+    margin-top: 60px;
+}
+.service .wrapper{
+    display: block;
+}
+.service .col:hover .wrapper{
+    display: block;
+    cursor: pointer;
+    transition: all 2s;
+}
+.service .wrapper{
+    display: none;
+}
+.about{
+    background: #171616;
+    color: white;
+}
+.about .a{
+    margin-top: 113px;
+}
+.about .b{
+    margin-top: 153px;
+}
+.infor p{
+    color: black;
+    margin-bottom: 98px;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+letter-spacing: 0.23em;
+text-transform: uppercase;
+
+color: #000000;
+}
+.Ve{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+
+letter-spacing: 0.15em;
+text-decoration-line: underline;
+
+color: #000000;
+}
+.link a{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+text-decoration: none;
+}
+.link ul{
+    display: flex;
+    margin-top: 50px;
+}
+.link li{
+    margin-left: 35px;
+}
+.link li{
+    margin-left: 35px;
+}
+.link li{
+    margin-left: 35px;
+    list-style-type:  none;
+}
+.fast .h{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 900;
+font-size: 148px;
+line-height: 150%;
+/* or 222px */
+
+text-transform: uppercase;
+
+color: #000000;
+text-align: center;
+}
+.fast .ppp .pp{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 150%;
+/* identical to box height, or 60px */
+
+letter-spacing: 0.15em;
+text-transform: uppercase;
+
+text-align: center;
+}
+
+
+.infor{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    /* or 27px */
+    
+    
+    color: #B7B7B7;
+    
+}
+
+.fast .wrapper h1{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+letter-spacing: 0.15em;
+text-transform: uppercase;
+
+color: #000000;
+
+}
+
+.fast .wrapper{
+    padding: 20px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.25);
+    height: 150px;
+    
+}
+.al, .all {
+    margin-right:19px ;
+}
+
